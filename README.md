@@ -14,7 +14,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/agueriv/">
-    <img src="public/assets/images/logo_olimpo_git.svg" alt="Logo" width="200" height="80">
+    <img src="img/logoNZ.svg" alt="Logo" width="200" height="80">
   </a>
 
   <h3 align="center">Web Nueva Zelanda</h3>
